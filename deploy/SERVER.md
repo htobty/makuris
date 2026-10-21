@@ -67,7 +67,7 @@ Placeholders used below:
 ## 3. Quick start with Docker Compose
 
 ```bash
-git clone https://github.com/htob/makuris.git
+git clone https://github.com/htobty/makuris.git
 cd makuris/deploy
 ```
 
